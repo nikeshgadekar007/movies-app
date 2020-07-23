@@ -1,4 +1,4 @@
-## React Movies 
+## React Movies App
 
 A simple movie website is developed using React js + Redux.
 
@@ -26,6 +26,7 @@ http://www.omdbapi.com/
 
 I have hosted this application on firebase so, in order to quick check please click on below link.
 
+https://movies-app-bf641.web.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
