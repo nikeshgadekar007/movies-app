@@ -1,0 +1,17 @@
+@import '../../../common/colors.scss';
+
+.movie-wrapper {
+    display: block;
+    position: relative;
+    width: 90%;
+    margin: 10px auto;
+    overflow: hidden;
+}
+.movie-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+    grid-gap: 10px;
+}
+.movies-error{
+    color: $yellow-color;
+}
